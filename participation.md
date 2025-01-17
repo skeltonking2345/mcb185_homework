@@ -28,7 +28,15 @@ more than one point per category. There is a maximum of 5 points each week.
 	+ Didn't come to class Thursday to save you from getting sick
 	+ Total 4 points
 - Week 1
+	+ Attended class Tuesday
+	+ Asked a question in class
+	+ Introduced myself to Orlando
+	+ Attended class thursday
+	+ Total 4 points
 - Week 2
+	+ Attended class tuesday
+	+ Attended class thursday, arrived a bit late and was an odd person so had to be added to a pair
+	+ I met 2 really nice girls who I was paired up with but I totally forgot their names and I am too nervous to ask them as I am writing this
 - Week 3
 - Week 4
 - Week 5
