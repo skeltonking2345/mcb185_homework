@@ -1,0 +1,129 @@
+Wed Jan 22 17:01:45 PST 2025
+CYGWIN_NT-10.0-22631 LAPTOP-JTMIR5MT 3.5.5-1.x86_64 2024-12-20 16:19 UTC x86_64 Cygwin
+ProgramFiles(x86)=C:\Program Files (x86)
+!::=::\
+CommonProgramFiles(x86)=C:\Program Files (x86)\Common Files
+SHELL=/bin/bash
+NUMBER_OF_PROCESSORS=20
+PROCESSOR_LEVEL=6
+TERM_PROGRAM_VERSION=3.7.7
+ACSvcPort=17532
+USERDOMAIN_ROAMINGPROFILE=LAPTOP-JTMIR5MT
+HOSTNAME=LAPTOP-JTMIR5MT
+PROGRAMFILES=C:\Program Files
+PATHEXT=.COM;.EXE;.BAT;.CMD;.VBS;.VBE;.JS;.JSE;.WSF;.WSH;.MSC
+OS=Windows_NT
+HOMEDRIVE=C:
+USERDOMAIN=LAPTOP-JTMIR5MT
+PWD=/home/steve/code/mcb185_homework
+USERPROFILE=C:\Users\steve
+OneDriveConsumer=C:\Users\steve\OneDrive
+PRINTER=Brother MFC-L2710DW series Printer
+TZ=America/Los_Angeles
+ALLUSERSPROFILE=C:\ProgramData
+ORIGINAL_PATH=/cygdrive/c/Windows/system32:/cygdrive/c/Windows:/cygdrive/c/Windows/System32/Wbem:/cygdrive/c/Windows/System32/WindowsPowerShell/v1.0:/cygdrive/c/Windows/System32/OpenSSH:/cygdrive/c/Program Files (x86)/NVIDIA Corporation/PhysX/Common:/cygdrive/c/Program Files/NVIDIA Corporation/NVIDIA NvDLISR:/cygdrive/c/Users/steve/AppData/Local/Microsoft/WindowsApps:/cygdrive/c/Users/steve/AppData/Local/Programs/Microsoft VS Code/bin
+CommonProgramW6432=C:\Program Files\Common Files
+HOME=/home/steve
+USERNAME=steve
+OneDrive=C:\Users\steve\OneDrive
+COMSPEC=C:\Windows\system32\cmd.exe
+EFC_11992=1
+APPDATA=C:\Users\steve\AppData\Roaming
+SYSTEMROOT=C:\Windows
+LOCALAPPDATA=C:\Users\steve\AppData\Local
+COMPUTERNAME=LAPTOP-JTMIR5MT
+INFOPATH=/usr/local/info:/usr/share/info:/usr/info
+TERM=xterm
+LOGONSERVER=\\LAPTOP-JTMIR5MT
+ZES_ENABLE_SYSMAN=1
+USER=steve
+PSModulePath=C:\Program Files\WindowsPowerShell\Modules;C:\Windows\system32\WindowsPowerShell\v1.0\Modules
+RlsSvcPort=22112
+TEMP=/tmp
+SHLVL=2
+PROCESSOR_REVISION=9a03
+DriverData=C:\Windows\System32\Drivers\DriverData
+COMMONPROGRAMFILES=C:\Program Files\Common Files
+LC_CTYPE=en_US.UTF-8
+PROCESSOR_IDENTIFIER=Intel64 Family 6 Model 154 Stepping 3, GenuineIntel
+SESSIONNAME=Console
+HOMEPATH=\Users\steve
+TMP=/tmp
+PATH=/usr/local/bin:/usr/bin:/cygdrive/c/Windows/system32:/cygdrive/c/Windows:/cygdrive/c/Windows/System32/Wbem:/cygdrive/c/Windows/System32/WindowsPowerShell/v1.0:/cygdrive/c/Windows/System32/OpenSSH:/cygdrive/c/Program Files (x86)/NVIDIA Corporation/PhysX/Common:/cygdrive/c/Program Files/NVIDIA Corporation/NVIDIA NvDLISR:/cygdrive/c/Users/steve/AppData/Local/Microsoft/WindowsApps:/cygdrive/c/Users/steve/AppData/Local/Programs/Microsoft VS Code/bin
+ProgramW6432=C:\Program Files
+PROFILEREAD=true
+MINTTY_SHORTCUT=/cygdrive/c/Users/steve/AppData/Roaming/Microsoft/Internet Explorer/Quick Launch/User Pinned/TaskBar/Cygwin64 Terminal.lnk
+WINDIR=C:\Windows
+PROCESSOR_ARCHITECTURE=AMD64
+PUBLIC=C:\Users\Public
+SYSTEMDRIVE=C:
+EXECIGNORE=*.dll
+OLDPWD=/home/steve/code
+TERM_PROGRAM=mintty
+ProgramData=C:\ProgramData
+_=/usr/bin/printenv
+Python 3.9.16
+/home/steve/code:
+MCB185
+mcb185_homework
+participation.md
+
+/home/steve/code/MCB185:
+LICENSE
+README.md
+course
+data
+ref
+src
+
+/home/steve/code/MCB185/course:
+participation.md
+unit0-unix.md
+unit1-calculations.md
+unit2-iteration.md
+unit3-containers.md
+unit4-sequences.md
+unit5-words.md
+unit6-data.md
+unit7-executables.md
+
+/home/steve/code/MCB185/data:
+A.thaliana.fa.gz
+A.thaliana.gff.gz
+C.elegans.fa.gz
+C.elegans.gff.gz
+C.elegans.vcf.gz
+C.elegans_transcripts.fa.gz
+D.melanogaster.fa.gz
+D.melanogaster.gff.gz
+GCF_000005845.2_ASM584v2_genomic.fna.gz
+GCF_000005845.2_ASM584v2_genomic.gbff.gz
+GCF_000005845.2_ASM584v2_genomic.gff.gz
+GCF_000005845.2_ASM584v2_protein.faa.gz
+README.md
+colors_basic.tsv
+colors_extended.tsv
+dictionary.gz
+jaspar2024_core.transfac.gz
+primers.csv
+
+/home/steve/code/MCB185/ref:
+LINUX_REFERENCE.md
+PYTHON_COOKBOOK.md
+PYTHON_REFERENCE.md
+
+/home/steve/code/MCB185/src:
+mcb185.py
+
+/home/steve/code/mcb185_homework:
+00hello.sh
+01favorite.md
+01hello.pv
+02status.sh
+03report.txt
+LICENSE
+README.md
+ecoli.gff.gz
+favorite.pv
+participation.md
+poetry.txt
