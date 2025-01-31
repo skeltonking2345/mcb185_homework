@@ -44,8 +44,12 @@ more than one point per category. There is a maximum of 5 points each week.
 	+ Attended class tuesday
 	+ Attended class thursday
 	+ I introduced myself to Jimmy
-	+ 
+	+ Total 3 points
 - Week 4
+	+ I had a bad headcold due to staying up late studying for an exam so I skipped tuesday lecture.
+	+ I was still feeling a bit ill so I also skipped class
+	+ Appearently I get points for not going to class when sick but let me know if this doesn't count I will remove the points for this week.
+	+ Total 2 points
 - Week 5
 - Week 6
 - Week 7
