@@ -53,6 +53,12 @@ more than one point per category. There is a maximum of 5 points each week.
 - Week 5
 - Week 6
 - Week 7
+	+ I participated in a weekend discord meeting and passed my unit 1 assessment (sun)
+	+ Participated in a scheduled meeting and did unit 2 homework (mon)
+	+ Once again participated in scheduled meeting and revised completed unit 2 homework (thur)
+	+ Total 3 points
 - Week 8
+	+ I participated in a weekend discord meeting and I did my unit 2 assessment (sun)
+	+ 
 - Week 9
 - Week 10
