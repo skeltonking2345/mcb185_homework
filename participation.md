@@ -48,17 +48,20 @@ more than one point per category. There is a maximum of 5 points each week.
 - Week 4
 	+ I had a bad headcold due to staying up late studying for an exam so I skipped tuesday lecture.
 	+ I was still feeling a bit ill so I also skipped class
-	+ Appearently I get points for not going to class when sick but let me know if this doesn't count I will remove the points for this week.
 	+ Total 2 points
 - Week 5
 - Week 6
 - Week 7
-	+ I participated in a weekend discord meeting and passed my unit 1 assessment (sun)
-	+ Participated in a scheduled meeting and did unit 2 homework (mon)
+	+ I participated in a weekend discord meeting and worked on homework(sun)
+	+ Participated in a scheduled meeting and did unit 1 assessment (mon)
 	+ Once again participated in scheduled meeting and revised completed unit 2 homework (thur)
 	+ Total 3 points
 - Week 8
 	+ I participated in a weekend discord meeting and I did my unit 2 assessment (sun)
-	+ 
+	+ Total 1 point
 - Week 9
+	+ I completed unit 3 in a scheduled assesment meeting (Wed)
+	+ Attended a late night coderie and sort of listened while they did unit 4 stuff, I was a bit shy so I just absorbed, I also was not too far into unit 4 (Thurs)
+	+ Total 2 points
 - Week 10
+(sorry I might have shifted my participation a week foreward or backward but I am not too sure)
