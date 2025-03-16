@@ -61,7 +61,6 @@ more than one point per category. There is a maximum of 5 points each week.
 	+ Total 1 point
 - Week 9
 	+ I completed unit 3 in a scheduled assesment meeting (Wed)
-	+ Attended a late night coderie and sort of listened while they did unit 4 stuff, I was a bit shy so I just absorbed, I also was not too far into unit 4 (Thurs)
-	+ Total 2 points
+	+ Total 1 points
 - Week 10
 (sorry I might have shifted my participation a week foreward or backward but I am not too sure)
