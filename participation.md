@@ -47,14 +47,14 @@ more than one point per category. There is a maximum of 5 points each week.
 	+ Total 3 points
 - Week 4
 	+ I had a bad headcold due to staying up late studying for an exam so I skipped tuesday lecture.
-	+ I was still feeling a bit ill so I also skipped class
-	+ Total 2 points
+	+ I was still feeling a bit ill so I also skipped class thurs 
+	+ Total 1 points
 - Week 5
 - Week 6
 - Week 7
 	+ I participated in a weekend discord meeting and worked on homework(sun)
 	+ Participated in a scheduled meeting and did unit 1 assessment (mon)
-	+ Once again participated in scheduled meeting and revised completed unit 2 homework (thur)
+	+ Once again participated in OH meeting and revised completed unit 2 homework (thur)
 	+ Total 3 points
 - Week 8
 	+ I participated in a weekend discord meeting and I did my unit 2 assessment (sun)
